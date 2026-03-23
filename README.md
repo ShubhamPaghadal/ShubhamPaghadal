@@ -1,6 +1,6 @@
 # Hi, I'm Shubham Paghadal 👋
 
-### Frontend Software Engineer | Web Performance Enthusiast | UI/UX Specialist
+### Frontend Software Engineer | Web Performance Enthusiast | React Developer
 
 Welcome to my GitHub! I am a **Frontend Software Engineer** with a passion for building high-performance, responsive, and user-centric web applications. With over a year of experience, I’ve collaborated on diverse projects including e-commerce customization platforms, medical portals, and complex ERP systems.
 
